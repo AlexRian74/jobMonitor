@@ -1,0 +1,7 @@
+**/*.class
+/logs
+/SystemSettings/gptCredentials.properties
+/PolishedResumes/*.*
+/SearchSettings/Resume.txt
+/SearchSettings/search.hash
+/target/
